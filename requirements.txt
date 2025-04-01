@@ -3,3 +3,5 @@ python-Levenshtein
 scikit-learn
 matplotlib
 seaborn
+spotlight
+torch
