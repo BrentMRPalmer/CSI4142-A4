@@ -3,5 +3,5 @@ python-Levenshtein
 scikit-learn
 matplotlib
 seaborn
-spotlight
+git+https://github.com/maciejkula/spotlight.git
 torch
