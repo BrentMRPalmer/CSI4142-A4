@@ -1,2 +1,5 @@
 pandas
 python-Levenshtein
+scikit-learn
+matplotlib
+seaborn
